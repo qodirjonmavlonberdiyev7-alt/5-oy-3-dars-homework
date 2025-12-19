@@ -25,4 +25,15 @@ db.authors.insertOne({name: "G'afur G'ulom",birthday:1903,janr: "She'riyat,hikoy
 db.authors.insertOne({name: "Odil Yoqubov",birthday:1926,janr: "Roman,drama"})
 
 
+db.members.insertOne({name:"Nodir",age:23,joinDate:"10.06.2025"})
+db.members.insertOne({name:"Husanboy",age:24,joinDate:"19.02.2025"})
+db.members.insertOne({name:"Ruslan",age:18,joinDate:"21.10.2025"})
+db.members.insertOne({name:"Behzod",age:20,joinDate:"12.01.2024"})
+db.members.insertOne({name:"Qodirjon",age:20,joinDate:"09.09.2019"})
+db.members.insertOne({name:"Jasur",age:17,joinDate:"06.05.2025"})
+db.members.insertOne({name:"Qahramon",age:19,joinDate:"16.07.2023"})
+db.members.insertOne({name:"Qudrat",age:25,joinDate:"10.06.2025"})
+
+
+
 
