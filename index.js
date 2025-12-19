@@ -19,6 +19,10 @@ db.books.insertOne({author: "Cho'lpon",bookName:"Kecha va kunduz",janr:" Tarixiy
 db.books.insertOne({author: "Odil Yoqubov",bookName:"Ulug‘bek xazinasi",janr:"Tarixiy Roman",year:"1973",nusxa:36})
 
 
-db.
+db.authors.insertOne({name: "Cho'lpon",birthday:1897,janr: "She'riyat,nasr,roman"})
+db.authors.insertOne({name: "Abdulla Qodiriy",birthday:1894,janr: "Roman,hikoya"})
+db.authors.insertOne({name: "G'afur G'ulom",birthday:1903,janr: "She'riyat,hikoya"})
+db.authors.insertOne({name: "Odil Yoqubov",birthday:1926,janr: "Roman,drama"})
+
 
 
